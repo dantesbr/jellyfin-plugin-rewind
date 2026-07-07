@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Rewind",
+    "guid": "a12f68c1-9b44-4bfa-9e77-f4a64b2dab42",
+    "description": "Marks all videos in selected paths as unplayed.",
+    "category": "Library Management",
+    "owner": "DantesBR",
+    "overview": "A simple tool to reset the playback status of your videos, making them unplayed again.",
+    "repository": "https://gitlab.local-2.silvio.cesar.nom.br/jellyfin/jellyfin-plugin-rewind",
+    "versions": [
+      {
+        "checksum": "fd3fd07f032a068bee261ce188679b30",
+        "changelog": "Release 10.11.0.0",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://gitlab.local-2.silvio.cesar.nom.br/api/v4/projects/7/packages/generic/Jellyfin.Plugin.Rewind/v10.11.0.0/Jellyfin.Plugin.Rewind.zip",
+        "timestamp": "2025-10-20T12:42:40Z",
+        "version": "10.11.0.0"
+      },
+      {
+        "checksum": "95cae6198346170ec56c025165962a56",
+        "changelog": "Initial release",
+        "targetAbi": "10.9.0.0",
+        "sourceUrl": "https://gitlab.local-2.silvio.cesar.nom.br/api/v4/projects/7/packages/generic/Jellyfin.Plugin.Rewind/1.0.0.1/Jellyfin.Plugin.Rewind.zip",
+        "timestamp": "2023-04-05T15:38:50Z",
+        "version": "1.0.0.1"
+      }
+    ]
+  }
+]
